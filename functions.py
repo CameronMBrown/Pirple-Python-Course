@@ -1,5 +1,5 @@
 #Pirple Python Assignment 2 
-#funtions and returns
+#functions and returns
 
 def name():
   return "Dear Maria, Count Me In"
