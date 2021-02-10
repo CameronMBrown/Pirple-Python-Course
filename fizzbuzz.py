@@ -1,4 +1,4 @@
-#Pirple Assignment 4 - loops
+#Pirple Assignment 5 - loops
 
 # classic fizzbuzz problem with the addition of finding prime numbers
 # isPrime is not maximally optimized
