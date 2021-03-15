@@ -2,8 +2,6 @@
 # a basic note taking/editing app
 
 import os.path
-from os import remove
-from shutil import move
 
 def writeToFile(fileName, format):
   file = open(fileName, format)
